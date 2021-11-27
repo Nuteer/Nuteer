@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nuteer
 - 👀 I’m interested in Devops AWS
-- 🌱 I’m currently learning AWS Certified Solutions Architect
+- 🌱 I’m currently learning AWS Solutions Architect| Backend | C# | DevOps | Cloud Computing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
